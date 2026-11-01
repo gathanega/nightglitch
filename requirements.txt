@@ -1,0 +1,5 @@
+moderngl
+glfw
+opencv-python
+numpy
+mediapipe
